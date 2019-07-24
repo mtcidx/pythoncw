@@ -1,0 +1,1 @@
+https://medium.com/@gharta.hadisa/scraping-menggunakan-requests-dan-beautifulsoup4-178e88393070

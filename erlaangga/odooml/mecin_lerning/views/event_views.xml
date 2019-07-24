@@ -1,0 +1,84 @@
+<odoo>
+	<record model="ir.ui.view" id="view_event_tree_bootcamp_inherit">
+		<field name="name">Event</field>
+		<field name="model">event.event</field>
+		<field name="inherit_id" ref="event.view_event_tree" />
+		<field name="arch" type="xml">
+			<field name="name" position="after">
+				<field name="price" />
+			</field>
+		</field>
+	</record>
+	<record model="ir.ui.view" id="view_event_form_bootcamp_inherit">
+		<field name="name">Event</field>
+		<field name="model">event.event</field>
+		<field name="inherit_id" ref="event.view_event_form" />
+		<field name="arch" type="xml">
+			<field name="date_tz" position="after">
+				<field name="price" />
+				<field name="description" />
+			</field>
+		</field>
+	</record>
+
+	<record model="ir.actions.act_window" id="action_event_bootcamp" >
+		<field name="name">Bootcamp</field>
+		<field name="res_model">event.event</field>
+		<field name="view_mode">tree,kanban,form</field>
+		<field name="domain">[('is_bootcamp', '=', True)]</field>
+		<field name="context">{"default_is_bootcamp": True}</field>
+		<field name="help" type="html">
+		  <p class="o_view_nocontent_smiling_face">
+		    Add a new event
+		  </p><p>
+		    Schedule and organize your events efficiently:
+		    track registrations and participations, automate the confirmation emails, sell tickets, etc.
+		  </p>
+		</field>
+	</record>
+
+	<record id="bootcamp_course_tree_view" model="ir.ui.view">
+        <field name="name">Courses</field>
+        <field name="model">event.event.course</field>
+        <field name="arch" type="xml">
+            <tree string="Courses List">
+                <field name="name"/>
+                <field name="course_datetime"/>
+            </tree>
+        </field>
+    </record>
+
+	<record model="ir.ui.view" id="event_course_form_view">
+		<field name="name">Course</field>
+		<field name="model">event.event.course</field>
+		<field name="arch" type="xml">
+			<form>
+				<sheet>
+					<group>
+						<field name="name" />
+						<field name="course_datetime" />
+					</group>
+				</sheet>
+			</form>
+		</field>
+	</record>
+
+	<record model="ir.actions.act_window" id="action_event_course">
+		<field name="name">Course</field>
+		<field name="res_model">event.event.course</field>
+		<field name="view_mode">tree,kanban,form</field>
+		<field name="domain">[('is_bootcamp', '=', True)]</field>
+		<field name="context">{"default_is_bootcamp": True}</field>
+		<field name="help" type="html">
+		  <p class="o_view_nocontent_smiling_face">
+		    Add a new event
+		  </p><p>
+		    Bootcamp
+		  </p>
+		</field>
+	</record>
+
+	<menuitem id="bootcamp_root" name="Bootcamp" />
+	<menuitem id="bootcamp" parent="bootcamp_root" name="Bootcamp" action="action_event_bootcamp" />
+	<menuitem id="bootcamp_course" parent="bootcamp_root" name="Course" action="action_event_course" />
+</odoo>

@@ -1,0 +1,1 @@
+from .segitiga import Segitiga
