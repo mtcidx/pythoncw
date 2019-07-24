@@ -8,5 +8,6 @@
 3. Using Odoo
 4. Using Docker to simply set up environment
 5. Using Git
+6. Using numpy and scikit for ML
 
 You can visit my GH Pages on [https://erlaangga.github.io](https://erlaangga.github.io)
