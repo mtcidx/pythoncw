@@ -13,10 +13,34 @@ Usage
 Machine learning
  >Prediction
   >Linear Regression
-
+   
 
 Python 
    > Numpy (Array processing language)
  	> SCIKIT
  	> SCIKIT LEARN
 
+
+> K MEAN CLUSTERING ALOGRITHM
+> K Nearest CLUSTERING ALOGRITHM
+> Artificial Neural Network
+
+
+TAHAPAN machine learning
+1. Data acquisition < CSV, JSON, 
+2. Data Cleaning 
+3. Modelling
+4. Fitting 
+5. Prediction
+6. Validation
+7. Conclusion Matrix
+
+
+
+Underfit, FIT, Overfit
+
+OVERFIT = 100 % train dan test, datanya yg di train semua dan model train sama dengan jumlah data 
+
+FIT = 25% data digunakan untuk test, 75% data digunakan untuk training dengan model
+
+UNDERFIT = dibawah 50% data digunakan untuk training dan sisanya untuk testing 
