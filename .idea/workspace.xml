@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5df8e640-1859-4b0c-b945-c452c5a723c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythoncw.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/.idea/05_django_blog_data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/blog/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/deblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/deblog/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/deblog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/deblog/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/05_django_blog_data/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/MachineLearning/.idea/MachineLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/MachineLearning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/MachineLearning/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/MachineLearning/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/MachineLearning/main_numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/MachineLearning/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/MachineLearning/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/carsworld/.idea/carsworld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/carsworld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/carsworld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/carsworld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/carsworld/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/carsworld2/.idea/carsworld2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/carsworld2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/carsworld2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/carsworld2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/carsworld2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/carsworld2/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/carsworld2/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/docker_multicontainer/.idea/docker_multicontainer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/docker_multicontainer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/docker_multicontainer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/docker_multicontainer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/docker_multicontainer/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/docker_multicontainer/flaskapp/Dockerfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/docker_multicontainer/flaskapp/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/docker_multicontainer/flaskapp/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/docker_multicontainer/pip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/docker_multicontainer/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/.idea/flask_blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/css/full-width-pics.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/jquery/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/jquery/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/static/vendor/jquery/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/flask_blog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/medium.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/odoo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/odoo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/odoo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/odoo/.idea/odoo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/odoo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/odoo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ahmadkurniawan/test.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ahmadkurniawan/test.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ahmadkurniawan/medium.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="89" selection-start-line="1" selection-start-column="89" selection-end-line="1" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="kurniawanahmad &lt;kurniawanahmad306@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ahmadkurniawan/medium.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/pythoncw.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pythoncw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythoncw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythoncw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythoncw" type="462c0819:PsiDirectoryNode" />
+              <item name="ahmadkurniawan" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5df8e640-1859-4b0c-b945-c452c5a723c3" name="Default Changelist" comment="" />
+      <created>1563948867436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563948867436</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="20" width="1260" height="640" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ahmadkurniawan/medium.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="89" selection-start-line="1" selection-start-column="89" selection-end-line="1" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ahmadkurniawan/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
