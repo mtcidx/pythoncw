@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdf0a0c3-7baf-4384-8133-cab86eeb01bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/.idea/05_django_blog_data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/blog/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/deblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/deblog/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/deblog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/deblog/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/05_django_blog_data/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/MachineLearning/.idea/MachineLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/MachineLearning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/MachineLearning/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/MachineLearning/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/MachineLearning/main_numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/MachineLearning/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/MachineLearning/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/carsworld/.idea/carsworld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/carsworld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/carsworld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/carsworld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/carsworld/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/carsworld2/.idea/carsworld2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/carsworld2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/carsworld2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/carsworld2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/carsworld2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/carsworld2/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/carsworld2/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/docker_multicontainer/.idea/docker_multicontainer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/docker_multicontainer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/docker_multicontainer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/docker_multicontainer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/docker_multicontainer/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/docker_multicontainer/flaskapp/Dockerfile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/docker_multicontainer/flaskapp/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/docker_multicontainer/flaskapp/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/docker_multicontainer/pip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/docker_multicontainer/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/.idea/flask_blog.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/css/full-width-pics.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/jquery/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/jquery/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/static/vendor/jquery/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/flask_blog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/medium.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/odoo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ahmadkurniawan/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarml/ngampay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarml/nyikit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarpy/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarpy/shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngedjango/blogwow/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngedjango/blogwow/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngedjango/blogwow/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngedjango/blogwow/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngedjango/blogwow/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngedjango/blogwow/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngedjango/blogwow/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngedjango/blogwow/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngedjango/blogwow/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngedjango/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngedjango/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngedjango/ngedjango/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngedjango/ngedjango/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngedjango/ngedjango/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngedjango/ngedjango/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/ngeflask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static-file.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/css/full-width-pics.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/jquery/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/jquery/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/static/vendor/jquery/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/belajarweb/ngeflask/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/medium.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/odooml/.directory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/odooml/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/odooml/mecin/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/odooml/mecin/__manifest__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/odooml/mecin_lerning/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/odooml/mecin_lerning/__manifest__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/odooml/mecin_lerning/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/odooml/mecin_lerning/models/odooml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/odooml/mecin_lerning/security/ir.model.access.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/odooml/mecin_lerning/views/event_views.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlaangga/odooml/mecin_lerning/views/project_task_views.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/basic/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/basic/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/basic/shape/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/basic/shape/bujursangkar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/basic/shape/segitiga.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/django/blog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/django/blog/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/django/blog/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/django/blog/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/django/blog/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/django/blog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/django/blog/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/django/blog/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/django/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/django/blog/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/django/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/django/deblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/django/deblog/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/django/deblog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/django/deblog/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/django/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/css/full-width-pics.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/jquery/jquery.slim.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/jquery/jquery.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/static/vendor/jquery/jquery.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/flask/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/medium.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gharta/ml/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lukas/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lukas/flaskapp/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lukas/flaskapp/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lukas/flaskapp/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lukas/machine_learning_training/main_numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lukas/machine_learning_training/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lukas/medium.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/pythoncw.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/pythoncw.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-5" />
+    <option name="width" value="980" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdf0a0c3-7baf-4384-8133-cab86eeb01bb" name="Default Changelist" comment="" />
+      <created>1563954440967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563954440967</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>
