@@ -1,0 +1,26 @@
+Python
+- DESKTOP
+    -PYQT
+    -WXPython
+
+- Server
+    -Django
+    -Pylons
+    -Flask/Bottle > blog
+
+- Mobile
+mending kotlin, native, react
+
+
+NEED TO REVIEW PY DJANGO
+
+
+
+
+---------------
+DOCKER
+1. bikin file docker-compose.yml file
+56722. pip install -r (text file requirement)
+3. pip install docker-compose
+4. docker-compose --version
+5. sudo docker-compose up --build

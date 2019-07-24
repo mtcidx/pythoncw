@@ -1,0 +1,21 @@
+source Carsworld/bin/activate
+
+pip3 freeze > requirements.txt
+django-admin startproject deblog .
+python3 manage.py runserver 0.0.0.0:5555
+python3 manage.py migrate
+python3 manage.py createsuperuser
+
+#buat appliaksinya dengan nama :  blog
+python manage.py startapp blog
+
+#definis admin
+python3 manage.py makemigrations
+python3 manage.py migrate
+
+#install restfull
+pip install djangorestframework
+pip3 freeze > requirements.txt
+
+#tambahakan di seting file
+#tambahkan di views.py

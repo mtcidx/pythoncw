@@ -1,0 +1,35 @@
+<odoo>
+	<record model="ir.ui.view" id="view_task_form2_ml_inherit">
+		<field name="name">Odoo ML</field>
+		<field name="model">project.task</field>
+		<field name="inherit_id" ref="project.view_task_form2" />
+		<field name="arch" type="xml">
+			<field name="project_id" position="after">
+				<field name="price" />
+			</field>
+			<field name="date_deadline" position="after">
+				<field name="estimation" />
+			</field>
+		</field>
+	</record>
+	<record model="ir.ui.view" id="view_task_tree2_ml_inherit">
+		<field name="name">Odoo ML</field>
+		<field name="model">project.task</field>
+		<field name="inherit_id" ref="project.view_task_tree2" />
+		<field name="arch" type="xml">
+			<field name="name" position="after">
+				<field name="price" />
+			</field>
+		</field>
+	</record>
+	<record model="ir.ui.view" id="view_task_kanban_inherit">
+		<field name="name">Odoo ML</field>
+		<field name="model">project.task</field>
+		<field name="inherit_id" ref="project.view_task_kanban" />
+		<field name="arch" type="xml">
+			<xpath expr="//div[hasclass('o_kanban_record_headings')]" position="after" >
+				<field name="price" />
+			</xpath>
+		</field>
+	</record>
+</odoo>
