@@ -69,7 +69,7 @@ Pillow==3.1.2
 plainbox==0.25
 prompt-toolkit==2.0.9
 protobuf==3.6.1
-psutil==5.6.2
+psutil==5.6.6
 psycopg2==2.8.2
 ptyprocess==0.5
 pyasn1==0.1.9
