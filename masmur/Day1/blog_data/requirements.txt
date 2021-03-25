@@ -88,7 +88,7 @@ python-debian==0.1.27
 python-systemd==231
 pytz==2019.1
 pyxdg==0.25
-PyYAML==5.1
+PyYAML==5.4
 reportlab==3.3.0
 requests==2.22.0
 screen-resolution-extra==0.0.0
