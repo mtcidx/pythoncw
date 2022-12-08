@@ -6,7 +6,7 @@ backcall==0.1.0
 beautifulsoup4==4.4.1
 blinker==1.3
 Brlapi==0.6.4
-certifi==2019.3.9
+certifi==2022.12.7
 chardet==3.0.4
 checkbox-support==0.22
 classicmenu-indicator==0.11
